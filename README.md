@@ -1,4 +1,4 @@
-# Notebook-Set-Up-and-Clean
+# Notebook Set Up and Clean
 
 ![notebook](https://github.com/EmilyF99/Notebook-Set-Up-and-Clean/blob/main/Screenshot%202021-08-30%20234228.png?raw=true)
 
